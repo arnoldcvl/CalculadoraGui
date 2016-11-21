@@ -32,6 +32,7 @@ public class Principal {
         JOptionPane.showMessageDialog(null, "dividir: " + calc.dividir());
 
         System.exit(0);
+
     }
 
 }
